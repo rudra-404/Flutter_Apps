@@ -1,6 +1,6 @@
-<img src="assets/images/README image 01.png" height="120">
+<img src="assets/images/README image 01.png" height="100">
 
----
+
 
 This project showcases a **Squid Game-inspired user interface**, designed and developed using **Flutter**.  
 
