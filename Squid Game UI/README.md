@@ -1,4 +1,4 @@
-<img src="assets/images/README image 01.png">
+<img src="assets/images/README image 01.png" height="120">
 
 ---
 
