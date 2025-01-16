@@ -17,6 +17,7 @@ This project showcases a **Squid Game-inspired user interface**, designed and de
 - **Android Studio** for development and testing.  
 
 ### Preview :  
-<pre>     <img src="assets/images/README image 03.png" height="250">      <img src="assets/images/README image 02.png" height="250"></pre>
+<img src="assets/images/README image 03.png" height="350" style="margin-right: 20px">
+<img src="assets/images/README image 02.png" height="350">
 
 Feel free to explore the code, provide feedback, or fork the repository to experiment with your own designs!
