@@ -1,4 +1,4 @@
-<img src="assets/images/README heading image.png" height="80">
+<img src="assets/images/README heading image.png" height="70">
 
 
 
